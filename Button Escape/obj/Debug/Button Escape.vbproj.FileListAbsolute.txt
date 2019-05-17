@@ -1,0 +1,12 @@
+C:\Users\Mihhail\AppData\Local\Temporary Projects\Button Escape\bin\Debug\Button Escape.exe.config
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\bin\Debug\Button Escape.exe.config
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\bin\Debug\Button Escape.exe
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\bin\Debug\Button Escape.pdb
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\bin\Debug\Button Escape.xml
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\obj\Debug\Button_Escape.Form1.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\obj\Debug\Button_Escape.Form2.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\obj\Debug\Button_Escape.Resources.resources
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\obj\Debug\Button Escape.vbproj.GenerateResource.Cache
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\obj\Debug\Button Escape.exe
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\obj\Debug\Button Escape.xml
+C:\Users\Mihhail\Documents\Visual Studio 2013\Projects\Button Escape\Button Escape\obj\Debug\Button Escape.pdb
